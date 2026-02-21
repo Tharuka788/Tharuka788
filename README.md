@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | 3rd Year IT Undergraduate at SLIIT</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharukaumayanga&label=Profile%20views&color=0e75b6&style=flat" alt="tharukaumayanga" />
+  <img src="https://komarev.com/ghpvc/?username=Tharuka788&label=Profile%20views&color=0e75b6&style=flat" alt="Tharuka788" />
 </p>
 
 ---
@@ -71,8 +71,8 @@ I’m a passionate **Full-Stack Developer** from Sri Lanka, currently in my 3rd 
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharukaumayanga&show_icons=true&theme=dark&hide_border=true" alt="Tharuka's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharukaumayanga&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharuka788&show_icons=true&theme=dark&hide_border=true" alt="Tharuka's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharuka788&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 ---
