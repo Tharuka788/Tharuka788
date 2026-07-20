@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharuka Umayanga</h1>
-<h3 align="center">Full-Stack Developer | 3rd Year IT Undergraduate at SLIIT</h3>
+<h3 align="center">Full-Stack Developer | 4th Year IT Undergraduate at SLIIT</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tharuka788&label=Profile%20views&color=0e75b6&style=flat" alt="Tharuka788" />
